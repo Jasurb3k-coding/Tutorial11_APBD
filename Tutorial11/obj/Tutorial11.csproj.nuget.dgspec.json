@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jasurb3k/Downloads/Example/Tutorial5/Tutorial11/Tutorial11.csproj": {}
+    "/Users/jasurb3k/Downloads/Example/Tutorial11/Tutorial11/Tutorial11.csproj": {}
   },
   "projects": {
-    "/Users/jasurb3k/Downloads/Example/Tutorial5/Tutorial11/Tutorial11.csproj": {
+    "/Users/jasurb3k/Downloads/Example/Tutorial11/Tutorial11/Tutorial11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jasurb3k/Downloads/Example/Tutorial5/Tutorial11/Tutorial11.csproj",
+        "projectUniqueName": "/Users/jasurb3k/Downloads/Example/Tutorial11/Tutorial11/Tutorial11.csproj",
         "projectName": "Tutorial11",
-        "projectPath": "/Users/jasurb3k/Downloads/Example/Tutorial5/Tutorial11/Tutorial11.csproj",
+        "projectPath": "/Users/jasurb3k/Downloads/Example/Tutorial11/Tutorial11/Tutorial11.csproj",
         "packagesPath": "/Users/jasurb3k/.nuget/packages/",
-        "outputPath": "/Users/jasurb3k/Downloads/Example/Tutorial5/Tutorial11/obj/",
+        "outputPath": "/Users/jasurb3k/Downloads/Example/Tutorial11/Tutorial11/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jasurb3k/.nuget/NuGet/NuGet.Config"

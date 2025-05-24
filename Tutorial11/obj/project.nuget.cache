@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G4ZoGwuVC/I=",
+  "dgSpecHash": "0AVGaB9zOUM=",
   "success": true,
-  "projectFilePath": "/Users/jasurb3k/Downloads/Example/Tutorial5/Tutorial11/Tutorial11.csproj",
+  "projectFilePath": "/Users/jasurb3k/Downloads/Example/Tutorial11/Tutorial11/Tutorial11.csproj",
   "expectedPackageFiles": [
     "/Users/jasurb3k/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/jasurb3k/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

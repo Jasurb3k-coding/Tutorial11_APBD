@@ -1,5 +1,8 @@
 @Tutorial5_HostAddress = http://localhost:5109
 
+GET {{Tutorial5_HostAddress}}/api/patients/1
+
+###
 POST {{Tutorial5_HostAddress}}/api/prescription
 Accept: application/json
 Content-Type: application/json

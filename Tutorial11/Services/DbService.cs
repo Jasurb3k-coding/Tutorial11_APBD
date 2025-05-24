@@ -38,7 +38,7 @@ public class DbService : IDbService
                         IdDoctor = p.Doctor.IdDoctor,
                         FirstName = p.Doctor.FirstName,
                     }
-                }).ToList()
+                }).OrderBy(i => i.DueDate).ToList()
             }).FirstOrDefaultAsync();
         return patient;
     }
